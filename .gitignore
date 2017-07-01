@@ -1,0 +1,9 @@
+.cache
+.eggs
+.idea
+*~
+*.pyc
+build/*
+dynamicTreeCut.egg-info/*
+dist/*
+writing/*
