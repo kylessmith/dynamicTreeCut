@@ -6,6 +6,7 @@ dependencies:
 - mkl
 - numpy
 - openssl
+- pandas
 - pip
 - python
 - readline
