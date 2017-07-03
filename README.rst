@@ -14,6 +14,11 @@ dynamicTreeCut contains methods for detection of clusters in hierarchical cluste
 Installing
 ==========
 
+To install, it's best to create an environment after installing and downloading the
+`Anaconda Python Distribution <https://www.continuum.io/downloads>`__
+
+    conda env create --file environment.yml
+
 PyPI install, presuming you have all its requirements (numpy and scipy) installed::
 
 	pip install dynamicTreeCut
