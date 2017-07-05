@@ -157,6 +157,7 @@ def cutreeHybrid(link, distM,
     
     # fill in this section once understood better
     if externalBranchSplitFnc != None:
+        raise NotImplementedError("externalBranchSplitFnc is not supported yet")
         nExternalSplits = len(externalBranchSplitFnc)
         if len(minExternalSplit) < 1:
             raise AttributeError("minExternalBranchSplit must be given.")
