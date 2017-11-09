@@ -2,7 +2,7 @@ import os
 import numpy as np
 from scipy.stats import rankdata
 from scipy.special import binom #faster than comb
-import df_apply
+import dynamicTreeCut.df_apply
 from functools import partial
 from R_func import *
 
