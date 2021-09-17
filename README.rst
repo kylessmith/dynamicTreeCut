@@ -1,6 +1,6 @@
 |Stars| |PyPIDownloads| |PyPI| |Build Status| |Coffee|
 
-.. |Stars| image:: https://img.shields.io/github/stars/kylessmith/ailist?logo=GitHub&color=yellow
+.. |Stars| image:: https://img.shields.io/github/stars/kylessmith/dynamicTreeCut?logo=GitHub&color=yellow
    :target: https://github.com/kylessmith/dynamicTreeCut/stargazers
 .. |PyPIDownloads| image:: https://pepy.tech/badge/dynamicTreeCut
    :target: https://pepy.tech/project/dynamicTreeCut
