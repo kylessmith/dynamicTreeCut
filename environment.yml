@@ -1,0 +1,20 @@
+name: dynamicTreeCut-env
+channels:
+- r
+- defaults
+dependencies:
+- mkl
+- numpy
+- openssl
+- pandas
+- pip
+- python
+- readline
+- scipy
+- setuptools
+- sqlite
+- tk
+- wheel
+- xz
+- zlib
+
